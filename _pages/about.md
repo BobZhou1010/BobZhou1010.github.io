@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology][2], [Jilin Universiy][3]. His research interests include Computer Architecture and Deep Learning.
+Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology][2], [Jilin Universiy][3]. His research interests include Computer Architecture and Machine Learning Robustness.
 
 ## News  
 **Jul. 2021**: *RLConfig: Run-time Configuration of Cluster Schedulers via Deep Reinforcement Learning* is accepted by [ISPA 2021][105].
