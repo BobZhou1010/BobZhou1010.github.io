@@ -32,6 +32,8 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
   College of Computer Science and Technology, Jilin University  
 
 ## Experience
+- Research Intern, *Apr. 2023*-*Now*
+  Centre For Frontier AI Rsearch (CFAR),Agency for Science, Technology and Research(A*STAR)
 - Research Intern, *Jul. 2021* - *Aug. 2021*  
   Data Center, China Automotive Technology and Research Center Co. Ltd
 
