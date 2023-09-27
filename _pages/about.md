@@ -22,7 +22,7 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
 
 
 ## Education
-* Joint Ph.D. in Computer Architecture, 2023-Now
+* Joint Training Ph.D. in Computer Architecture, 2023-Now
   Advisors: [Prof. Xiaohui Wei][1],[Assco. Prof. Joey Tianyi Zhou][4]
   Centre For Frontier AI Rsearch (CFAR), Agency for Science, Technology and Research(A\*STAR)
 * Ph.D. in Computer Architecture, 2021-Now  
