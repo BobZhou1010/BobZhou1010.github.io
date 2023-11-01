@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology][2], [Jilin Universiy][3]. His research interests include Computer Architecture and Machine Learning Robustness.
+Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology][2], [Jilin University][3]. His research interests include Computer Architecture and Machine Learning Robustness.
 
 ## News  
-**Jul. 2021**: *RLConfig: Run-time Configuration of Cluster Schedulers via Deep Reinforcement Learning* is accepted by [ISPA 2021][105].
-
-**Jul. 2021**: *DRL-Deploy: Adaptive Service Function Chains Deployment with Deep Reinforcement Learning* is accepted by [ISPA 2021][105].
+**Oct. 2023**: *TC-SEPM: Characterizing Soft Error Resilience of CNNs on Tensor Cores from Program and Microarchitecture Perspectives* is accepted by Journal of Systems Architecture (JSA).
 
 ## Selected Publications
 * Wei, Xiaohui, **Changbao Zhou**, Yong Sheng, Yan Wu, Lina Li, and Shang Gao. RLConfig: Run-time Configuration of Cluster Schedulers via Deep Reinforcement Learning. **In 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)**, pp. 92-99. IEEE, 2021.
