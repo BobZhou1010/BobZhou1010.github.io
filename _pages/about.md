@@ -14,9 +14,10 @@ Changbao Zhou is a Ph.D. student at [College of Computer Science and Technology]
 **Oct. 2023**: *TC-SEPM: Characterizing Soft Error Resilience of CNNs on Tensor Cores from Program and Microarchitecture Perspectives* is accepted by Journal of Systems Architecture (JSA).
 
 ## Selected Publications
-* Wei, Xiaohui, **Changbao Zhou**, Yong Sheng, Yan Wu, Lina Li, and Shang Gao. RLConfig: Run-time Configuration of Cluster Schedulers via Deep Reinforcement Learning. **In 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)**, pp. 92-99. IEEE, 2021.
-* Wei, Xiaohui, Yong Sheng, Lina Li, and **Changbao Zhou***. DRL-Deploy: Adaptive Service Function Chains Deployment with Deep Reinforcement Learning. **In 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)**, pp. 100-107. IEEE, 2021.
-* Wei, Xiaohui, Xiaoxian Shen, **Changbao Zhou**, and Hengshan Yue. A Novel Clustering-Based Filter Pruning Method for Efficient Deep Neural Networks. **In International Conference on Algorithms and Architectures for Parallel Processing(ICA3PP)**, 2020:245-258.
+* Xiaohui Wei, **Changbao Zhou**, Hengshan Yue, and Joey Tianyi Zhou. TC-SEPM: Characterizing soft error resilience of CNNs on Tensor Cores from program and microarchitecture perspectives. **Journal of Systems Architecture** 145 (2023): 103024.
+* Xiaohui Wei, **Changbao Zhou**, Yong Sheng, Yan Wu, Lina Li, and Shang Gao. RLConfig: Run-time Configuration of Cluster Schedulers via Deep Reinforcement Learning. **In 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)**, pp. 92-99. IEEE, 2021.
+* Xiaohui Wei, Yong Sheng, Lina Li, and **Changbao Zhou***. DRL-Deploy: Adaptive Service Function Chains Deployment with Deep Reinforcement Learning. **In 2021 IEEE Intl Conf on Parallel & Distributed Processing with Applications, Big Data & Cloud Computing, Sustainable Computing & Communications, Social Computing & Networking (ISPA/BDCloud/SocialCom/SustainCom)**, pp. 100-107. IEEE, 2021.
+* Xiaohui Wei, Xiaoxian Shen, **Changbao Zhou**, and Hengshan Yue. A Novel Clustering-Based Filter Pruning Method for Efficient Deep Neural Networks. **In International Conference on Algorithms and Architectures for Parallel Processing(ICA3PP)**, 2020:245-258.
 
 
 ## Education
